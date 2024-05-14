@@ -1,0 +1,16 @@
+{
+  "name": "tdd_website",
+  "version": "1.0.0",
+  "description": "testing web pages",
+  "scripts": {
+    "test": "cypress open",
+    "dev": "serve -l 3000 public"
+  },
+  "keywords": [],
+  "author": "Jhinel Arcaya<hello@ginnie.codes>",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^13.9.0",
+    "serve": "^14.2.3"
+  }
+}

@@ -1,0 +1,17 @@
+# Logs
+logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+# Coverage directory
+lib-cov
+coverage
+
+# Dependency directory
+node_modules
+cypress/videos
+cypress/screenshots
